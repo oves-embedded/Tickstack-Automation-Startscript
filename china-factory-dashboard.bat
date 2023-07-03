@@ -10,8 +10,6 @@ cd Tigstack
 @REM Inside the folder clone the repo from github
 git clone https://github.com/oves-embedded/web-docker-tickstack.git
 @REM After cloning the folder, change to the directory web-docker-tickstack
-git fetch
-@REM After cloning the folder, change to the directory web-docker-tickstack
 cd web-docker-tickstack
 @REM change to the branch of a specific distributor
 git fetch

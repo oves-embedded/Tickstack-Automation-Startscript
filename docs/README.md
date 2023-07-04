@@ -38,8 +38,11 @@ NB: For Z-motors run
 
 - After double-clicking the file, the whole project will take a few minutes to start.
 - After the whole process, you can view the dashboard on the URL localhost:3000.
-- On the grafana URL(localhost:3000) use the following credential
-username: admin
-password: admin
+- On the Grafana URL(localhost:3000) use the following credential
+
+```sh
+  username: admin
+  password: admin
+```
 
 - NB: That's the default login credentials
